@@ -17,7 +17,7 @@ function App() {
             <p>Hakan UCA</p>
           </div>
           <div className="team-member">
-            <img src="team3.jpg" alt="Abdullah DOĞANAY"/>
+            <img src="src\assets\ad.jpg" alt="Abdullah DOĞANAY"/>
             <p>Abdullah DOĞANAY</p>
           </div>
           <div className="team-member">
