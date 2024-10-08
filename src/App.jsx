@@ -9,19 +9,19 @@ function App() {
         <h2>Team Members</h2>
         <div className="team">
           <div className="team-member">
-            <img src="src/assets/dp.png" alt="Deniz POLAT"/>
+            <img src="final-project-website\src/assets/dp.png" alt="Deniz POLAT"/>
             <p>Deniz POLAT</p>
           </div>
           <div className="team-member">
-            <img src="src\assets\hu.jpg" alt="Hakan UCA"/>
+            <img src="final-project-website\src\assets\hu.jpg" alt="Hakan UCA"/>
             <p>Hakan UCA</p>
           </div>
           <div className="team-member">
-            <img src="src\assets\ad.jpg" alt="Abdullah DOĞANAY"/>
+            <img src="final-project-website\src\assets\ad.jpg" alt="Abdullah DOĞANAY"/>
             <p>Abdullah DOĞANAY</p>
           </div>
           <div className="team-member">
-            <img src="src\assets\ou.jpg" alt="Onur USLU"/>
+            <img src="final-project-website\src\assets\ou.jpg" alt="Onur USLU"/>
             <p>Onur USLU</p>
           </div>
         </div>
@@ -31,7 +31,7 @@ function App() {
       <section className="supervisor-section">
         <h2>Supervisor</h2>
         <div className="supervisor">
-          <img src="src\assets\tkc.png" alt="Tolga Kurtuluş ÇAPIN"/>
+          <img src="final-project-website\src\assets\tkc.png" alt="Tolga Kurtuluş ÇAPIN"/>
           <p>Tolga Kurtuluş ÇAPIN</p>
         </div>
       </section>
@@ -41,11 +41,11 @@ function App() {
         <h2>Jury Members</h2>
         <div className="jury">
           <div className="jury-member">
-            <img src="src\assets\cu.jpg" alt="Çağatay ÜNDEĞER"/>
+            <img src="final-project-website\src\assets\cu.jpg" alt="Çağatay ÜNDEĞER"/>
             <p>Çağatay ÜNDEĞER</p>
           </div>
           <div className="jury-member">
-            <img src="src\assets\ab.png" alt="Ali BERKOL"/>
+            <img src="final-project-website\src\assets\ab.png" alt="Ali BERKOL"/>
             <p>Ali BERKOL</p>
           </div>
         </div>
