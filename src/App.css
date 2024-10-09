@@ -1,12 +1,19 @@
+/* Google Fonts Kanit integration */
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700&display=swap');
+
 body {
   margin: 0;
-  font-family: 'Arial', sans-serif;
+  font-family: 'Kanit', sans-serif; /* Apply Kanit font */
   background-color: #f0f4f8;
   color: #333;
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  background-image: url('./assets/aa.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 .container {
@@ -19,17 +26,19 @@ body {
 }
 
 header h1 {
-  font-size: 3rem;
+  font-family: 'Kanit', sans-serif; /* Apply Kanit font */
+  font-size: 4rem; /* Increased font size */
   color: #0077b6;
-  margin-bottom: 1rem;
+  margin-bottom: 6.5rem;
   text-align: center;
   text-transform: uppercase;
 }
 
 section h2 {
-  font-size: 2rem;
+  font-family: 'Kanit', sans-serif; /* Apply Kanit font */
+  font-size: 2rem; /* Increased font size */
   color: #00b4d8;
-  margin: 1rem 0;
+  margin: 1.2rem 0;
   border-bottom: 2px solid #90e0ef;
   display: inline-block;
   padding-bottom: 0.5rem;
@@ -78,25 +87,29 @@ img {
 }
 
 img:hover {
-  transform: scale(1.1);
-  box-shadow: 0 4px 15px rgba(0, 119, 182, 0.4);
+  transform: scale(1.15);
+  box-shadow: 0 6px 30px rgba(0, 0, 0, 0.664);
 }
 
-p {
-  margin-top: 0.5rem;
-  font-size: 1rem;
-  font-weight: bold;
-  color: #023e8a;
-  text-align: justify;
+.linkedin-icon {
+  width: 25px;
+  height: 25px;
+  margin-left: 1rem;
+  vertical-align: middle;
+  border: 2px solid #0077b6; /* Decreased border thickness */
 }
 
-@media (max-width: 768px) {
-  .supervisor-and-jury, .team {
-    flex-direction: column;
-  }
-
-  img {
-    width: 120px;
-    height: 120px;
-  }
+.name {
+  font-size: 1.1rem; /* Adjust this value as needed */
+  margin: 0.5rem 0; /* Optional: add some margin for spacing */
+  font-weight: bold; /* Make the font bold */
 }
+
+.description-section p {
+  font-size: 1.5rem; /* Adjust this value as needed */
+  line-height: 1.5; /* Optional: improve line spacing */
+  text-align: justify; /* Justify the text alignment */
+}
+
+
+
