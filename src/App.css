@@ -1,9 +1,8 @@
-/* Google Fonts Kanit integration */
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700&display=swap');
 
 body {
   margin: 0;
-  font-family: 'Kanit', sans-serif; /* Apply Kanit font */
+  font-family: 'Kanit', sans-serif;
   background-color: #f0f4f8;
   color: #333;
   display: flex;
@@ -19,7 +18,7 @@ body {
 .container {
   width: 90vw;
   max-width: 1200px;
-  background-color: rgba(255, 255, 255, 0.80);
+  background-color: rgba(255, 255, 255, 0.85);
   border-radius: 10px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
   padding: 2rem;
@@ -27,8 +26,8 @@ body {
 
 
 header h1 {
-  font-family: 'Kanit', sans-serif; /* Apply Kanit font */
-  font-size: 4rem; /* Increased font size */
+  font-family: 'Kanit', sans-serif;
+  font-size: 4rem;
   color: #0077b6;
   margin-bottom: 6.5rem;
   text-align: center;
@@ -36,8 +35,8 @@ header h1 {
 }
 
 section h2 {
-  font-family: 'Kanit', sans-serif; /* Apply Kanit font */
-  font-size: 2rem; /* Increased font size */
+  font-family: 'Kanit', sans-serif;
+  font-size: 2rem;
   color: #00b4d8;
   margin: 1.2rem 0;
   border-bottom: 2px solid #90e0ef;
@@ -97,19 +96,19 @@ img:hover {
   height: 25px;
   margin-left: 1rem;
   vertical-align: middle;
-  border: 2px solid #0077b6; /* Decreased border thickness */
+  border: 2px solid #0077b6;
 }
 
 .name {
-  font-size: 1.1rem; /* Adjust this value as needed */
-  margin: 0.5rem 0; /* Optional: add some margin for spacing */
-  font-weight: bold; /* Make the font bold */
+  font-size: 1.1rem;
+  margin: 0.5rem 0;
+  font-weight: bold; 
 }
 
 .description-section p {
-  font-size: 1.5rem; /* Adjust this value as needed */
-  line-height: 1.5; /* Optional: improve line spacing */
-  text-align: justify; /* Justify the text alignment */
+  font-size: 1.5rem; 
+  line-height: 1.5;
+  text-align: justify;
 }
 
 

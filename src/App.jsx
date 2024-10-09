@@ -7,9 +7,8 @@ import ou from "./assets/ou.jpg";
 import tkc from "./assets/tkc.png";
 import cu from "./assets/cu.jpg";
 import ab from "./assets/ab.png";
-import linkedinIcon from "./assets/linkedin.png"; // Import the LinkedIn icon
+import linkedinIcon from "./assets/linkedin.png";
 
-// Other imports and code remain unchanged
 function App() {
   return (
     <div className="container">
