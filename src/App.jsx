@@ -14,7 +14,7 @@ function App() {
     <div className="container">
       {/* Project Name Header */}
       <header>
-        <h1>Surgery Navigation System</h1>
+        <h1>SurgeVision</h1>
       </header>
 
       {/* Project Description */}
