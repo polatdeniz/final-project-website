@@ -34,7 +34,7 @@ body {
 .logo {
   display: block;
   margin-right: 1.5rem; /* Space between the logo and title */
-  width: 400px; /* Adjust size as needed */
+  width: 600px; /* Adjust size as needed */
   height: auto; /* Maintain aspect ratio */
   border: none; /* Ensure no border */
   border-radius: 0; /* No rounding of corners */
