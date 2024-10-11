@@ -32,7 +32,7 @@ header {
 .logo {
   display: block;
   margin: 1.5rem auto; /* Center the logo and add some spacing */
-  width: 200px; /* Adjust the size if needed */
+  width: 250px; /* Adjust the size if needed */
   height: auto;
   border: 4px solid black; /* Border color can be set as needed */
   border-radius: 50%; /* Keep the circle shape */
@@ -42,7 +42,7 @@ header h1 {
   font-family: 'Kanit', sans-serif;
   font-size: 4rem;
   color: #0077b6;
-  margin-bottom: 3.5rem;
+  margin-bottom: 2.5rem;
   text-align: center;
 }
 
