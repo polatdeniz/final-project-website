@@ -24,6 +24,25 @@ body {
   padding: 2rem;
 }
 
+header {
+  position: relative;
+  text-align: center;
+}
+
+.logo {
+  position: absolute;
+  width: 80px;
+  height: auto;
+  top: 0;
+}
+
+.logo-left {
+  left: 20px;
+}
+
+.logo-right {
+  right: 20px;
+}
 
 header h1 {
   font-family: 'Kanit', sans-serif;
@@ -69,13 +88,6 @@ section h2 {
   gap: 2rem;
 }
 
-.jury-member {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 1rem 0;
-}
-
 img {
   width: 150px;
   height: 150px;
@@ -87,28 +99,22 @@ img {
 
 img:hover {
   transform: scale(1.15);
-  box-shadow: 0 6px 30px rgba(0, 0, 0, 0.664);
+  box-shadow: 0 6px 30px rgba(0, 0, 0, 0.2);
+}
+
+.name {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-top: 0.5rem;
 }
 
 .linkedin-icon {
   width: 25px;
   height: 25px;
-  margin-left: 1rem;
-  vertical-align: middle;
-  border: 2px solid #0077b6;
+  margin-left: 0.5rem;
+  transition: transform 0.3s ease;
 }
 
-.name {
-  font-size: 1.1rem;
-  margin: 0.5rem 0;
-  font-weight: bold; 
+.linkedin-icon:hover {
+  transform: scale(1.2);
 }
-
-.description-section p {
-  font-size: 1.5rem; 
-  line-height: 1.5;
-  text-align: justify;
-}
-
-
-
