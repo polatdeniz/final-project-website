@@ -36,7 +36,8 @@ body {
   margin-right: 1.5rem; /* Space between the logo and title */
   width: 120px; /* Adjust size as needed */
   height: auto; /* Maintain aspect ratio */
-  /* Removed border and border-radius properties */
+  border: none; /* Ensure no border */
+  border-radius: 0; /* No rounding of corners */
 }
 
 header h1 {
@@ -88,7 +89,6 @@ img {
   height: 150px;
   border-radius: 50%; /* Keep circle shape for team members */
   object-fit: cover;
-  border: none; /* Removed blue border */
   transition: transform 0.3s, box-shadow 0.3s;
 }
 
