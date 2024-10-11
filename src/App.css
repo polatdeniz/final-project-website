@@ -31,7 +31,7 @@ header {
 
 .logo {
   position: absolute;
-  width: 120px; /* Increased size by 50% */
+  width: 360px; /* Increased size by 50% */
   height: auto;
   top: 0;
 }
