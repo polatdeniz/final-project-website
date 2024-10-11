@@ -12,15 +12,11 @@ import logo from "./assets/logo.png"; // Import the logo image
 
 function App() {
   return (
-    <div className="container">
+     <div className="container">
       {/* Project Name Header */}
       <header>
-        {/* Left Logo */}
-        <img src={logo} alt="Logo" className="logo logo-left" />
-        {/* Right Logo */}
-        <img src={logo} alt="Logo" className="logo logo-right" />
-        
         <h1>SurgeVision</h1>
+        <img src={logo} alt="Logo" className="logo" /> {/* Add logo here */}
       </header>
 
       {/* Project Description */}
