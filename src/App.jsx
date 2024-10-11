@@ -21,8 +21,7 @@ function App() {
       <section className="description-section">
         <h2>Description Of The Project</h2>
         <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-        </p>
+          This project aims to develop an advanced surgical navigation system tailored for hip replacement surgeries, enhancing precision and safety. The system allows surgeons to visualize 3D MRI images of the patient’s anatomy in real-time, either on a screen or through optional Augmented Reality (AR) glasses. The use of AR glasses is not mandatory but can provide additional visual support during surgery. The system’s key functionality is its synchronization between the surgeon’s physical touchpoints on the patient and the corresponding areas in the MRI images. As the surgeon interacts with the patient's body, these points are marked on the display, allowing for real-time alignment and guidance. This feature improves surgical accuracy, minimizes risks, and helps reduce the procedure’s duration. By integrating real-time imaging with precise feedback, this system is designed to optimize hip replacement surgeries, making them faster, safer, and more reliable for both surgeons and patients. The optional AR integration provides flexibility, offering enhanced visualization for those who wish to utilize the technology.        </p>
       </section>
 
 
