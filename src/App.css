@@ -33,11 +33,10 @@ body {
 
 .logo {
   display: block;
-  margin-right: 1.5rem; /* Increased space between the logo and title */
-  width: 220px; /* Adjust size as needed */
-  height: auto;
-  border: 4px solid black; /* Border color can be set as needed */
-  border-radius: 50%; /* Keep the circle shape */
+  margin-right: 1.5rem; /* Space between the logo and title */
+  width: 120px; /* Adjust size as needed */
+  height: auto; /* Maintain aspect ratio */
+  /* No border or border-radius */
 }
 
 header h1 {
