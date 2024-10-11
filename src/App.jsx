@@ -8,7 +8,7 @@ import tkc from "./assets/tkc.png";
 import cu from "./assets/cu.jpg";
 import ab from "./assets/ab.png";
 import linkedinIcon from "./assets/linkedin.png";
-import logo from "./assets/logo.png"; // Import the logo image
+import logo from "./assets/logo.gif"; // Import the logo image
 
 function App() {
   return (
