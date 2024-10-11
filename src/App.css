@@ -119,3 +119,10 @@ img:hover {
 .linkedin-icon:hover {
   transform: scale(1.2);
 }
+
+.description-section p {
+  font-size: 1.5rem; 
+  line-height: 1.5;
+  text-align: justify; /* Added text alignment */
+}
+
