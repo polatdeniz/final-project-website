@@ -13,9 +13,6 @@ import logo from "./assets/logo.gif"; // Import the logo image
 function App() {
   return (
      <div className="container">
-      {/* Project Logo */}
-      <img src={logo} alt="Logo" className="logo" />
-
       {/* Project Name Header */}
       <header className="header">
         <img src={logo} alt="Logo" className="logo" /> {/* Add logo here */}
