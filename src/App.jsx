@@ -113,6 +113,15 @@ function App() {
         <h2>Documentation</h2>
         <p>
           <a 
+            href="https://github.com/polatdeniz/final-project-website/blob/main/src/assets/SurgeVision%20-%20Project%20Proposal.pdf" 
+            target="_blank" 
+            rel="noopener noreferrer"
+          >
+            Project Proposal Report - SurgeVision
+          </a>
+        </p>
+        <p>
+          <a 
             href="https://github.com/polatdeniz/final-project-website/blob/main/src/assets/Project_Specifications_Report_SurgeVision.pdf" 
             target="_blank" 
             rel="noopener noreferrer"
