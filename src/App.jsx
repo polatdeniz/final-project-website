@@ -12,7 +12,7 @@ import logo from "./assets/logo.gif"; // Import the logo image
 
 function App() {
   return (
-     <div className="container">
+    <div className="container">
       {/* Project Name Header */}
       <header className="header">
         <img src={logo} alt="Logo" className="logo" /> {/* Add logo here */}
@@ -106,6 +106,20 @@ function App() {
             <p><span className="name">Ali BERKOL</span></p> 
           </div>
         </div>
+      </section>
+
+      {/* Documentation */}
+      <section className="documentation-section">
+        <h2>Documentation</h2>
+        <p>
+          <a 
+            href="https://github.com/polatdeniz/final-project-website/blob/main/src/assets/Project_Specifications_Report_SurgeVision.pdf" 
+            target="_blank" 
+            rel="noopener noreferrer"
+          >
+            Project Specifications Report - SurgeVision
+          </a>
+        </p>
       </section>
     </div>
   );
