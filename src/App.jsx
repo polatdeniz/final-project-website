@@ -129,6 +129,15 @@ function App() {
             Project Specifications Report - SurgeVision
           </a>
         </p>
+        <p>
+          <a 
+            href="https://github.com/polatdeniz/final-project-website/blob/main/src/assets/Project_Analysis_Report_SurgeVision.pdf" 
+            target="_blank" 
+            rel="noopener noreferrer"
+          >
+            Project Analysis Report - SurgeVision
+          </a>
+        </p>
       </section>
     </div>
   );
