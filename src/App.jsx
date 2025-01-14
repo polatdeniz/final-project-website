@@ -147,6 +147,15 @@ function App() {
             High-Level Design Report - SurgeVision
           </a>
         </p>
+        <p>
+          <a 
+            href="https://github.com/polatdeniz/final-project-website/blob/main/src/assets/SurgeVision_Backlog.xlsx" 
+            target="_blank" 
+            rel="noopener noreferrer"
+          >
+            Backlog - SurgeVision
+          </a>
+        </p>
       </section>
     </div>
   );
