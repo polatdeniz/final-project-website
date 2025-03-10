@@ -156,6 +156,15 @@ function App() {
             Backlog - SurgeVision
           </a>
         </p>
+        <p>
+          <a 
+            href="https://github.com/polatdeniz/final-project-website/blob/main/src/assets/SurgeVision_Low-Level_Design_Report.pdf" 
+            target="_blank" 
+            rel="noopener noreferrer"
+          >
+            Low-Level Design Report - SurgeVision
+          </a>
+        </p>
       </section>
     </div>
   );
