@@ -167,7 +167,7 @@ function App() {
         </p>
         <p>
           <a 
-            href="https://github.com/polatdeniz/final-project-website/blob/main/src/assets/SurgeVision_Test_Plan_Report" 
+            href="https://github.com/polatdeniz/final-project-website/blob/main/src/assets/SurgeVision_Test_Plan_Report.pdf" 
             target="_blank" 
             rel="noopener noreferrer"
           >
