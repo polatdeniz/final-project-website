@@ -165,6 +165,15 @@ function App() {
             Low-Level Design Report - SurgeVision
           </a>
         </p>
+        <p>
+          <a 
+            href="https://github.com/polatdeniz/final-project-website/blob/main/src/assets/SurgeVision_Test_Plan_Report" 
+            target="_blank" 
+            rel="noopener noreferrer"
+          >
+            Test Plan Report - SurgeVision
+          </a>
+        </p>
       </section>
     </div>
   );
