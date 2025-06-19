@@ -174,6 +174,15 @@ function App() {
             Test Plan Report - SurgeVision
           </a>
         </p>
+        <p>
+          <a 
+            href="https://github.com/polatdeniz/final-project-website/blob/main/src/assets/SURGEVISION-CMPE_492-FINAL_REPORT.pdf" 
+            target="_blank" 
+            rel="noopener noreferrer"
+          >
+            Final Report - SurgeVision
+          </a>
+        </p>
       </section>
     </div>
   );
